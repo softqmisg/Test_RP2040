@@ -21,7 +21,7 @@ void loop() {
     {
       digitalWrite(1,HIGH);
     }
-    per_mili=millis();
+    pre_mili=millis();
   }
 
 }
